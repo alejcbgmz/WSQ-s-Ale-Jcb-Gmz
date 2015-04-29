@@ -19,7 +19,7 @@ void check_banana (string filename){
         count ++;
       }
     }
-    cout << "Number of times the word 'Banana' appears in the file: " << count << endl;
+    cout << "Times of  (banana) word appears: " << count << endl;
   }
 }
 
